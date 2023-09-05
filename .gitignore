@@ -1,1 +1,5 @@
 .DS_Store
+build/
+.ipynb_checkpoints/
+Ising-fullerenes-NN-polynomial/*.in
+Ising-fullerenes-NN-polynomial/*.out
